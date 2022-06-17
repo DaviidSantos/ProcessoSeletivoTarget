@@ -1,0 +1,7 @@
+C:\Users\55199\Documents\ProcessoSeletivo\Questao05\Questao05\bin\Debug\Questao05.exe
+C:\Users\55199\Documents\ProcessoSeletivo\Questao05\Questao05\bin\Debug\Questao05.pdb
+C:\Users\55199\Documents\ProcessoSeletivo\Questao05\Questao05\obj\Debug\Questao05.csproj.AssemblyReference.cache
+C:\Users\55199\Documents\ProcessoSeletivo\Questao05\Questao05\obj\Debug\Questao05.csproj.SuggestedBindingRedirects.cache
+C:\Users\55199\Documents\ProcessoSeletivo\Questao05\Questao05\obj\Debug\Questao05.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\ProcessoSeletivo\Questao05\Questao05\obj\Debug\Questao05.exe
+C:\Users\55199\Documents\ProcessoSeletivo\Questao05\Questao05\obj\Debug\Questao05.pdb

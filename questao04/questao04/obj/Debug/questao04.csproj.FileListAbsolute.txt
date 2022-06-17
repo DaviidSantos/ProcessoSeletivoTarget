@@ -1,0 +1,7 @@
+C:\Users\55199\Documents\ProcessoSeletivo\questao04\questao04\bin\Debug\questao04.exe
+C:\Users\55199\Documents\ProcessoSeletivo\questao04\questao04\bin\Debug\questao04.pdb
+C:\Users\55199\Documents\ProcessoSeletivo\questao04\questao04\obj\Debug\questao04.csproj.AssemblyReference.cache
+C:\Users\55199\Documents\ProcessoSeletivo\questao04\questao04\obj\Debug\questao04.csproj.SuggestedBindingRedirects.cache
+C:\Users\55199\Documents\ProcessoSeletivo\questao04\questao04\obj\Debug\questao04.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\ProcessoSeletivo\questao04\questao04\obj\Debug\questao04.exe
+C:\Users\55199\Documents\ProcessoSeletivo\questao04\questao04\obj\Debug\questao04.pdb
